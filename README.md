@@ -1,0 +1,2 @@
+# About
+This project is a Random Quote Machine built using TypeScript and React. It's designed to be a straightforward application that provides users with motivational and insightful quotes at the click of a button. Whether you're looking for a dose of inspiration or a moment of reflection, our Random Quote Machine has something for everyone.
